@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoktech&show_icons=true&locale=en" alt="hoktech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoktech&" alt="hoktech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurodesouza&" alt="hoktech" /></p>
